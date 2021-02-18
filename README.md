@@ -94,9 +94,9 @@ su ogni specifica funzione.
 
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-Anno Accademico: 2019-2020					    |
-Sorgente e readme realizzati da Umberto Carlucci e Giuseppe Carrino.|
-							            |
-                                                                    |
+Anno Accademico: 2019-2020					    
+Sorgente e readme realizzati da Umberto Carlucci e Giuseppe Carrino.
+							            
+                                                                    
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
