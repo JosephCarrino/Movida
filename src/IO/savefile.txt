@@ -1,0 +1,42 @@
+Title: Sliver
+Year: 1993
+Director: Phillip Noyce
+Cast: Sharon Stone, William Baldwin
+Votes: 4
+
+Title: The Quiet American
+Year: 2002
+Director: Phillip Noyce
+Cast: Michael Caine, Brendan Fraser
+Votes: 6
+
+Title: Goodfellas
+Year: 1990
+Director: Martin Scorsese
+Cast: Robert De Niro, Ray Liotta, Joe Pesci
+Votes: 7
+
+Title: Backdraft
+Year: 1990
+Director: Ron Howard
+Cast: William Baldwin, Robert De Niro
+Votes: 12
+
+Title: Tricked
+Year: 2012
+Director: Paul Verhoeven
+Cast: Peter Blok, Robert de Hoog
+Votes: 13
+
+Title: Casino
+Year: 1995
+Director: Martin Scorsese
+Cast: Robert De Niro, Joe Pesci, Sharon Stone
+Votes: 8
+
+Title: The Giver
+Year: 2014
+Director: Phillip Noyce
+Cast: Brenton Thwaites, Jeff Bridges
+Votes: 11
+
